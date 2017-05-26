@@ -1,0 +1,95 @@
+html {
+	background-color: #777;
+	font-family: arial;
+}
+
+body {
+	margin: 0 auto;
+	left: 150px;
+	top: 10px;
+	position: relative;
+}
+
+
+
+#fixed {
+	background-color: lightgray;
+	padding: 30px;
+	text-align: center;
+	width: 75%;
+	float: left;
+	position: relative;
+	color: gray;
+}
+
+#relative {
+	background-color: lightgray;
+	margin-top: 10px;
+	padding: 30px;
+	width: 75%;
+	text-align: center;
+	float: left;
+	color: gray;
+}
+
+#aboutme {
+	background-color: lightgray;
+	width: 36.5%;
+	padding: 40px;
+	height: 250px;
+	margin-top: 10px;
+	position: relative;
+	float: left;
+	text-align: center;
+	color: gray;
+}
+
+#aboutme1 {
+	background-color: lightgray;
+	width: 30%;
+	padding: 40px;
+	height: 250px;
+	margin-top: 10px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+	position: relative;
+	float: left;
+	text-align: center;
+	color: gray;
+}
+
+#section {
+	color: lightgray;
+	background-color: #777;
+	height: 170px;
+	padding: 25px;
+	width: 88%;
+	left: 10px;
+	bottom: 10px;
+	position: absolute;
+}
+
+#subsection1 {
+	background-color: lightgray;
+	color: gray;
+	padding: 20px;
+	margin-top: 30px;
+}
+
+#subsection2 {
+	background-color: lightgray;
+	color: gray;
+	padding: 20px;
+	margin-top: 10px;
+}
+
+#footer {
+	background-color: lightgray;
+	padding: 30px;
+	margin-top: 10px;
+	text-align: center;
+	float: left;
+	width: 75%;
+	color: gray;
+	clear: both;
+}
